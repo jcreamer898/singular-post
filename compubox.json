@@ -1,0 +1,565 @@
+{
+  "14981": {
+    "event_id": "14981",
+    "event_name": "PACNEL01252025",
+    "fight_card": "",
+    "event_date": "2025-01-25",
+    "event_time": "",
+    "total_fight_time": "36:00:00",
+    "weightclass": {
+      "id": "4",
+      "abv": "SMD",
+      "name": "Super middleweight"
+    },
+    "fighter1": {
+      "fighter_id": "7325",
+      "firstname": "DIEGO",
+      "lastname": "PACHECO"
+    },
+    "fighter2": {
+      "fighter_id": "7355",
+      "firstname": "STEVEN",
+      "lastname": "NELSON"
+    },
+    "city": {
+      "id": "4",
+      "name": "LAS VEGAS"
+    },
+    "organization": {
+      "id": "741",
+      "name": "Matchroom"
+    },
+    "title": "",
+    "rounds_scheduled": "12",
+    "rounds_fought": "12",
+    "winner_id": "7325",
+    "decision": {
+      "id": "1",
+      "abv": "UD",
+      "name": "Unanimous Decision"
+    },
+    "womens_event": null,
+    "pre_1985": null,
+    "status": "2",
+    "fighter1_record_operator": "7",
+    "fighter2_record_operator": "7",
+    "position_operator": "0",
+    "crowd_operator": "0",
+    "current_position": "5",
+    "current_position_status": "2",
+    "mode": "0",
+    "count_second_fighter": "N",
+    "display_round_stats": "Y",
+    "ip_address": "",
+    "port": "",
+    "minutes_per_round": "03:00",
+    "averages": {
+      "fighter_id-7325": {
+        "avg_jab_thrown_per_round": "26.1667",
+        "avg_jab_landed_per_round": "4.8333",
+        "avg_power_landed_per_round": "6.1667",
+        "avg_power_thrown_per_round": "12.5000",
+        "avg_knock_downs_per_round": "0.0000",
+        "avg_punches_thrown_per_round": "38.6667",
+        "avg_punches_landed_per_round": "11.0000",
+        "jab_landed_percentage": 18.5,
+        "power_landed_percentage": 49.3,
+        "punches_landed_percentage": 28.4
+      },
+      "fighter_id-7355": {
+        "avg_jab_thrown_per_round": "26.0000",
+        "avg_jab_landed_per_round": "3.1667",
+        "avg_power_landed_per_round": "3.2500",
+        "avg_power_thrown_per_round": "20.6667",
+        "avg_knock_downs_per_round": "0.0000",
+        "avg_punches_thrown_per_round": "46.6667",
+        "avg_punches_landed_per_round": "6.4167",
+        "jab_landed_percentage": 12.2,
+        "power_landed_percentage": 15.7,
+        "punches_landed_percentage": 13.8
+      }
+    },
+    "fight_totals": {
+      "fighter_id-7325": {
+        "total_jab_thrown": "314",
+        "total_jab_landed": "58",
+        "total_power_landed": "74",
+        "total_power_thrown": "150",
+        "body_power_landed": "8",
+        "body_jab_landed": "1",
+        "knock_downs": "0",
+        "total_punches_thrown": "464",
+        "total_punches_landed": "132"
+      },
+      "fighter_id-7355": {
+        "total_jab_thrown": "312",
+        "total_jab_landed": "38",
+        "total_power_landed": "39",
+        "total_power_thrown": "248",
+        "body_power_landed": "6",
+        "body_jab_landed": "6",
+        "knock_downs": "0",
+        "total_punches_thrown": "560",
+        "total_punches_landed": "77"
+      }
+    },
+    "rounds": {
+      "120929": {
+        "round_id": "120929",
+        "round": "1",
+        "complete": "Y",
+        "start_time": "2025-01-25 22:57:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "23",
+            "jab_landed": "4",
+            "power_thrown": "2",
+            "power_landed": "1",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "25",
+            "punches_landed": "5",
+            "jab_landed_percentage": 17.4,
+            "power_landed_percentage": 50,
+            "punches_landed_percentage": 20
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "35",
+            "jab_landed": "1",
+            "power_thrown": "15",
+            "power_landed": "0",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "0",
+            "punches_thrown": "50",
+            "punches_landed": "1",
+            "jab_landed_percentage": 2.9,
+            "power_landed_percentage": 0,
+            "punches_landed_percentage": 2
+          }
+        ]
+      },
+      "120930": {
+        "round_id": "120930",
+        "round": "2",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:01:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "26",
+            "jab_landed": "6",
+            "power_thrown": "6",
+            "power_landed": "3",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "32",
+            "punches_landed": "9",
+            "jab_landed_percentage": 23.1,
+            "power_landed_percentage": 50,
+            "punches_landed_percentage": 28.1
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "27",
+            "jab_landed": "3",
+            "power_thrown": "14",
+            "power_landed": "3",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "2",
+            "punches_thrown": "41",
+            "punches_landed": "6",
+            "jab_landed_percentage": 11.1,
+            "power_landed_percentage": 21.4,
+            "punches_landed_percentage": 14.6
+          }
+        ]
+      },
+      "120931": {
+        "round_id": "120931",
+        "round": "3",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:05:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "18",
+            "jab_landed": "4",
+            "power_thrown": "5",
+            "power_landed": "2",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "0",
+            "punches_thrown": "23",
+            "punches_landed": "6",
+            "jab_landed_percentage": 22.2,
+            "power_landed_percentage": 40,
+            "punches_landed_percentage": 26.1
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "36",
+            "jab_landed": "4",
+            "power_thrown": "14",
+            "power_landed": "2",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "0",
+            "punches_thrown": "50",
+            "punches_landed": "6",
+            "jab_landed_percentage": 11.1,
+            "power_landed_percentage": 14.3,
+            "punches_landed_percentage": 12
+          }
+        ]
+      },
+      "120932": {
+        "round_id": "120932",
+        "round": "4",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:09:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "25",
+            "jab_landed": "4",
+            "power_thrown": "6",
+            "power_landed": "3",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "31",
+            "punches_landed": "7",
+            "jab_landed_percentage": 16,
+            "power_landed_percentage": 50,
+            "punches_landed_percentage": 22.6
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "38",
+            "jab_landed": "4",
+            "power_thrown": "13",
+            "power_landed": "2",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "0",
+            "punches_thrown": "51",
+            "punches_landed": "6",
+            "jab_landed_percentage": 10.5,
+            "power_landed_percentage": 15.4,
+            "punches_landed_percentage": 11.8
+          }
+        ]
+      },
+      "120933": {
+        "round_id": "120933",
+        "round": "5",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:13:09",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "20",
+            "jab_landed": "5",
+            "power_thrown": "8",
+            "power_landed": "1",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "28",
+            "punches_landed": "6",
+            "jab_landed_percentage": 25,
+            "power_landed_percentage": 12.5,
+            "punches_landed_percentage": 21.4
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "19",
+            "jab_landed": "3",
+            "power_thrown": "6",
+            "power_landed": "2",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "0",
+            "punches_thrown": "25",
+            "punches_landed": "5",
+            "jab_landed_percentage": 15.8,
+            "power_landed_percentage": 33.3,
+            "punches_landed_percentage": 20
+          }
+        ]
+      },
+      "120934": {
+        "round_id": "120934",
+        "round": "6",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:17:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "33",
+            "jab_landed": "4",
+            "power_thrown": "11",
+            "power_landed": "7",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "4",
+            "punches_thrown": "44",
+            "punches_landed": "11",
+            "jab_landed_percentage": 12.1,
+            "power_landed_percentage": 63.6,
+            "punches_landed_percentage": 25
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "20",
+            "jab_landed": "4",
+            "power_thrown": "11",
+            "power_landed": "0",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "31",
+            "punches_landed": "4",
+            "jab_landed_percentage": 20,
+            "power_landed_percentage": 0,
+            "punches_landed_percentage": 12.9
+          }
+        ]
+      },
+      "120935": {
+        "round_id": "120935",
+        "round": "7",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:21:07",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "23",
+            "jab_landed": "4",
+            "power_thrown": "27",
+            "power_landed": "10",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "2",
+            "punches_thrown": "50",
+            "punches_landed": "14",
+            "jab_landed_percentage": 17.4,
+            "power_landed_percentage": 37,
+            "punches_landed_percentage": 28
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "18",
+            "jab_landed": "3",
+            "power_thrown": "37",
+            "power_landed": "7",
+            "knock_downs": "0",
+            "body_jab_landed": "1",
+            "body_power_landed": "3",
+            "punches_thrown": "55",
+            "punches_landed": "10",
+            "jab_landed_percentage": 16.7,
+            "power_landed_percentage": 18.9,
+            "punches_landed_percentage": 18.2
+          }
+        ]
+      },
+      "120936": {
+        "round_id": "120936",
+        "round": "8",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:25:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "31",
+            "jab_landed": "8",
+            "power_thrown": "14",
+            "power_landed": "9",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "45",
+            "punches_landed": "17",
+            "jab_landed_percentage": 25.8,
+            "power_landed_percentage": 64.3,
+            "punches_landed_percentage": 37.8
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "28",
+            "jab_landed": "1",
+            "power_thrown": "14",
+            "power_landed": "0",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "42",
+            "punches_landed": "1",
+            "jab_landed_percentage": 3.6,
+            "power_landed_percentage": 0,
+            "punches_landed_percentage": 2.4
+          }
+        ]
+      },
+      "120937": {
+        "round_id": "120937",
+        "round": "9",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:29:08",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "32",
+            "jab_landed": "7",
+            "power_thrown": "8",
+            "power_landed": "4",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "40",
+            "punches_landed": "11",
+            "jab_landed_percentage": 21.9,
+            "power_landed_percentage": 50,
+            "punches_landed_percentage": 27.5
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "33",
+            "jab_landed": "3",
+            "power_thrown": "14",
+            "power_landed": "1",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "1",
+            "punches_thrown": "47",
+            "punches_landed": "4",
+            "jab_landed_percentage": 9.1,
+            "power_landed_percentage": 7.1,
+            "punches_landed_percentage": 8.5
+          }
+        ]
+      },
+      "120938": {
+        "round_id": "120938",
+        "round": "10",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:33:09",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "31",
+            "jab_landed": "6",
+            "power_thrown": "19",
+            "power_landed": "11",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "1",
+            "punches_thrown": "50",
+            "punches_landed": "17",
+            "jab_landed_percentage": 19.4,
+            "power_landed_percentage": 57.9,
+            "punches_landed_percentage": 34
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "24",
+            "jab_landed": "4",
+            "power_thrown": "22",
+            "power_landed": "4",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "46",
+            "punches_landed": "8",
+            "jab_landed_percentage": 16.7,
+            "power_landed_percentage": 18.2,
+            "punches_landed_percentage": 17.4
+          }
+        ]
+      },
+      "120939": {
+        "round_id": "120939",
+        "round": "11",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:37:07",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "30",
+            "jab_landed": "3",
+            "power_thrown": "13",
+            "power_landed": "7",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "1",
+            "punches_thrown": "43",
+            "punches_landed": "10",
+            "jab_landed_percentage": 10,
+            "power_landed_percentage": 53.8,
+            "punches_landed_percentage": 23.3
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "15",
+            "jab_landed": "4",
+            "power_thrown": "32",
+            "power_landed": "6",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "47",
+            "punches_landed": "10",
+            "jab_landed_percentage": 26.7,
+            "power_landed_percentage": 18.8,
+            "punches_landed_percentage": 21.3
+          }
+        ]
+      },
+      "120940": {
+        "round_id": "120940",
+        "round": "12",
+        "complete": "Y",
+        "start_time": "2025-01-25 23:41:07",
+        "round_stats": [
+          {
+            "fighter_id": "7325",
+            "jab_thrown": "22",
+            "jab_landed": "3",
+            "power_thrown": "31",
+            "power_landed": "16",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "53",
+            "punches_landed": "19",
+            "jab_landed_percentage": 13.6,
+            "power_landed_percentage": 51.6,
+            "punches_landed_percentage": 35.8
+          },
+          {
+            "fighter_id": "7355",
+            "jab_thrown": "19",
+            "jab_landed": "4",
+            "power_thrown": "56",
+            "power_landed": "12",
+            "knock_downs": "0",
+            "body_jab_landed": "0",
+            "body_power_landed": "0",
+            "punches_thrown": "75",
+            "punches_landed": "16",
+            "jab_landed_percentage": 21.1,
+            "power_landed_percentage": 21.4,
+            "punches_landed_percentage": 21.3
+          }
+        ]
+      }
+    }
+  }
+}
